@@ -12,8 +12,14 @@
     font-family: 'Oswald', sans-serif;
     font-weight: bold;
     text-transform: uppercase;
-    gap: 5;
+    
 }
 .container{
     padding: 0 10rem;
+}
+.tamano, .size{
+    font-size: 15px;
+}
+.img{
+    display: flex;
 }
